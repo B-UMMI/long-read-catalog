@@ -4,6 +4,7 @@ This repository intends to be a collective effort towards the construction of a 
 ## Long-Read (General)
 
 ### QA/QC and Trimming
+* [Filtlong](https://github.com/rrwick/Filtlong) - quality filtering tool for long reads
 
 ### Mapping
 * [minimap 2](https://github.com/nanoporetech/minimap2) - A fast sequence mapping and alignment program
@@ -15,6 +16,7 @@ This repository intends to be a collective effort towards the construction of a 
 
 ### Polishing
 * [Racon](https://github.com/isovic/racon) - Ultrafast consensus module for raw de novo genome assembly of long uncorrected reads.
+* [npScarf](https://github.com/mdcao/npScarf) - scaffolds and completes draft genomes assemblies (spades) in real-time with Oxford Nanopore sequencing.
 
 
 ## Oxford Nanopore 
@@ -24,7 +26,6 @@ This repository intends to be a collective effort towards the construction of a 
 * [NanoQC](https://github.com/wdecoster/nanoQC) - Quality control tools for long read sequencing data aiming to replicate some of the plots made by fastQC
 * [NanoStat](https://github.com/wdecoster/nanostat) - Simple statistic summary 
 * [Porechop](https://github.com/rrwick/Porechop) - adapter trimmer and demultiplexer for Oxford Nanopore reads
-* [Filtlong](https://github.com/rrwick/Filtlong) - quality filtering tool for long reads
 * [poretools](https://github.com/arq5x/poretools) - a toolkit for working with Oxford nanopore data
 
 ### Basecalling 
@@ -35,15 +36,18 @@ Comparison available [here](https://github.com/rrwick/Basecalling-comparison).
 * [DeepNano](https://bitbucket.org/vboza/deepnano) - developed by Vladimír Boža and colleagues at Comenius University 
 * [Chiron](https://github.com/haotianteng/chiron) -  third-party basecaller developed by Haotian Teng and others in Lachlan Coin's group at the University of Queensland 
 
-#### Demultiplexing
+### Demultiplexing
 * [Deepbinner](https://github.com/rrwick/Deepbinner) - a signal-level demultiplexer for Oxford Nanopore reads
 * [Porechop](https://github.com/rrwick/Porechop) - adapter trimmer and demultiplexer for Oxford Nanopore reads
 * Albacore - Oxford Nanopore's official command-line basecaller (requires account) 
 
-#### Misc
+### Misc
 * [nanopolish](https://github.com/jts/nanopolish) - Software package for signal-level analysis of Oxford Nanopore sequencing data.
 
 
 ## PacBio 
 
 ### QA/QC and Trimming
+
+### Misc
+* [pb-jelly](https://sourceforge.net/p/pb-jelly/wiki/Home/) - highly automated pipeline that aligns long sequencing reads (such as PacBio RS reads or long 454 reads in fasta format) to high-confidence draft assembles.
