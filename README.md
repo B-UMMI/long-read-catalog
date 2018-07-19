@@ -16,6 +16,7 @@ This repository intends to be a collective effort towards the construction of a 
 ### Polishing
 * [Racon](https://github.com/isovic/racon) - Ultrafast consensus module for raw de novo genome assembly of long uncorrected reads.
 
+
 ## Oxford Nanopore 
 
 ### QA/QC and Trimming
@@ -24,6 +25,7 @@ This repository intends to be a collective effort towards the construction of a 
 * [NanoStat](https://github.com/wdecoster/nanostat) - Simple statistic summary 
 * [Porechop](https://github.com/rrwick/Porechop) - adapter trimmer and demultiplexer for Oxford Nanopore reads
 * [Filtlong](https://github.com/rrwick/Filtlong) - quality filtering tool for long reads
+* [poretools](https://github.com/arq5x/poretools) - a toolkit for working with Oxford nanopore data
 
 ### Basecalling 
 Comparison available [here](https://github.com/rrwick/Basecalling-comparison).
@@ -37,6 +39,10 @@ Comparison available [here](https://github.com/rrwick/Basecalling-comparison).
 * [Deepbinner](https://github.com/rrwick/Deepbinner) - a signal-level demultiplexer for Oxford Nanopore reads
 * [Porechop](https://github.com/rrwick/Porechop) - adapter trimmer and demultiplexer for Oxford Nanopore reads
 * Albacore - Oxford Nanopore's official command-line basecaller (requires account) 
+
+#### Misc
+* [nanopolish](https://github.com/jts/nanopolish) - Software package for signal-level analysis of Oxford Nanopore sequencing data.
+
 
 ## PacBio 
 
