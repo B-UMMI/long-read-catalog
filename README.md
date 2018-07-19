@@ -47,6 +47,9 @@ Comparison available [here](https://github.com/rrwick/Basecalling-comparison).
 
 ## PacBio 
 
+### QA/QC and Trimming
+* [proovread](https://github.com/BioInf-Wuerzburg/proovread) - PacBio hybrid error correction through iterative short read consensus
+
 ### Demultilexing
 * [lima](https://github.com/PacificBiosciences/barcoding) - Lima, the PacBio barcode demultiplexer, is the standard tool to identify barcode sequences in PacBio single-molecule sequencing data. 
 
