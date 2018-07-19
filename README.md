@@ -47,7 +47,11 @@ Comparison available [here](https://github.com/rrwick/Basecalling-comparison).
 
 ## PacBio 
 
-### QA/QC and Trimming
+### Demultilexing
+* [lima](https://github.com/PacificBiosciences/barcoding) - Lima, the PacBio barcode demultiplexer, is the standard tool to identify barcode sequences in PacBio single-molecule sequencing data. 
+
+### Alignment
+* [blasr](https://github.com/PacificBiosciences/blasr) - The PacBio® long read aligner
 
 ### Misc
 * [pb-jelly](https://sourceforge.net/p/pb-jelly/wiki/Home/) - highly automated pipeline that aligns long sequencing reads (such as PacBio RS reads or long 454 reads in fasta format) to high-confidence draft assembles.
