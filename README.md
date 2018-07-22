@@ -16,7 +16,9 @@ This repository intends to be a collective effort towards the construction of a 
 
 ### Polishing
 * [Racon](https://github.com/isovic/racon) - Ultrafast consensus module for raw de novo genome assembly of long uncorrected reads.
-* [npScarf](https://github.com/mdcao/npScarf) - scaffolds and completes draft genomes assemblies (spades) in real-time with Oxford Nanopore sequencing.
+
+### Structural Variation
+* [Sniffles](https://github.com/fritzsedlazeck/Sniffles) - structural variation caller using third generation sequencing (PacBio or Oxford Nanopore)
 
 
 ## Oxford Nanopore 
@@ -41,8 +43,12 @@ Comparison available [here](https://github.com/rrwick/Basecalling-comparison).
 * [Porechop](https://github.com/rrwick/Porechop) - adapter trimmer and demultiplexer for Oxford Nanopore reads
 * Albacore - Oxford Nanopore's official command-line basecaller (requires account) 
 
-### Misc
+### Polishing
 * [nanopolish](https://github.com/jts/nanopolish) - Software package for signal-level analysis of Oxford Nanopore sequencing data.
+* [npScarf](https://github.com/mdcao/npScarf) - scaffolds and completes draft genomes assemblies (spades) in real-time with Oxford Nanopore sequencing.
+
+### Structural Variation
+* [nanoSV](https://github.com/mroosmalen/nanosv) - SV caller for long-read (only tested in nanopore)
 
 
 ## PacBio 
