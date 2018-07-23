@@ -20,6 +20,9 @@ This repository intends to be a collective effort towards the construction of a 
 ### Structural Variation
 * [Sniffles](https://github.com/fritzsedlazeck/Sniffles) - structural variation caller using third generation sequencing (PacBio or Oxford Nanopore)
 
+### Misc
+* [MetaMaps](https://github.com/DiltheyLab/MetaMaps)
+
 
 ## Oxford Nanopore 
 
