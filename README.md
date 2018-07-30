@@ -32,6 +32,7 @@ This repository intends to be a collective effort towards the construction of a 
 * [NanoStat](https://github.com/wdecoster/nanostat) - Simple statistic summary 
 * [Porechop](https://github.com/rrwick/Porechop) - adapter trimmer and demultiplexer for Oxford Nanopore reads
 * [poretools](https://github.com/arq5x/poretools) - a toolkit for working with Oxford nanopore data
+* [MinIONQC](https://github.com/roblanf/minion_qc) - fast and simple quality control for MinION sequencing data
 
 ### Basecalling 
 Comparison available [here](https://github.com/rrwick/Basecalling-comparison).
