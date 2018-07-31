@@ -22,6 +22,7 @@ This repository intends to be a collective effort towards the construction of a 
 
 ### Misc
 * [MetaMaps](https://github.com/DiltheyLab/MetaMaps)
+* [krocus](https://github.com/andrewjpage/krocus) - MLST from long reads
 
 
 ## Oxford Nanopore 
