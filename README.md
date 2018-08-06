@@ -21,8 +21,9 @@ This repository intends to be a collective effort towards the construction of a 
 * [Sniffles](https://github.com/fritzsedlazeck/Sniffles) - structural variation caller using third generation sequencing (PacBio or Oxford Nanopore)
 
 ### Misc
-* [MetaMaps](https://github.com/DiltheyLab/MetaMaps)
+* [MetaMaps](https://github.com/DiltheyLab/MetaMaps) - simultaenously carries out read assignment and sample composition estimation
 * [krocus](https://github.com/andrewjpage/krocus) - MLST from long reads
+* [ngmlr](https://github.com/philres/ngmlr) -  long-read mapper designed to align PacBio or Oxford Nanopore (standard and ultra-long) to a reference genome with a focus on reads that span structural variations
 
 
 ## Oxford Nanopore 
