@@ -13,6 +13,7 @@ This repository intends to be a collective effort towards the construction of a 
 * [Unicycler](https://github.com/rrwick/Unicycler) - hybrid assembly pipeline for bacterial genomes (miniasm and spades with racon and pilon for polishing)
 * [miniasm](https://github.com/lh3/miniasm) - Ultrafast de novo assembly for long noisy reads (though having no consensus step)
 * [canu](https://github.com/marbl/canu) - A single molecule sequence assembler for genomes large and small
+* [Flye](https://github.com/fenderglass/Flye) - Fast and accurate de novo assembler for single molecule sequencing reads
 
 ### Polishing
 * [Racon](https://github.com/isovic/racon) - Ultrafast consensus module for raw de novo genome assembly of long uncorrected reads.
