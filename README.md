@@ -49,6 +49,7 @@ Comparison available [here](https://github.com/rrwick/Basecalling-comparison).
 * [Deepbinner](https://github.com/rrwick/Deepbinner) - a signal-level demultiplexer for Oxford Nanopore reads
 * [Porechop](https://github.com/rrwick/Porechop) - adapter trimmer and demultiplexer for Oxford Nanopore reads
 * Albacore - Oxford Nanopore's official command-line basecaller (requires account) 
+* [qcat](https://github.com/nanoporetech/qcat) - Python command-line tool for demultiplexing Oxford Nanopore reads from FASTQ files
 
 ### Polishing
 * [nanopolish](https://github.com/jts/nanopolish) - Software package for signal-level analysis of Oxford Nanopore sequencing data.
