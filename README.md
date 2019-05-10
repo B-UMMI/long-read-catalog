@@ -22,11 +22,16 @@ Comparison available [here](https://github.com/rrwick/Long-read-assembler-compar
 ### Structural Variation
 * [Sniffles](https://github.com/fritzsedlazeck/Sniffles) - structural variation caller using third generation sequencing (PacBio or Oxford Nanopore)
 
+### Read Simulation
+Comparison available [here](https://github.com/rrwick/Badread/tree/master/comparison)
+* [Badread](https://github.com/rrwick/Badread) - a long read simulator that can imitate many types of read problems
+* [LongISLND](https://github.com/bioinform/longislnd) - Long In silico Sequencing of Lengthy and Noisy Datatypes
+* [SiLiCO](https://github.com/ethanagbaker/SiLiCO) - a simulator of long read sequencing in pacbio and oxford nanopore
+
 ### Misc
 * [MetaMaps](https://github.com/DiltheyLab/MetaMaps) - simultaenously carries out read assignment and sample composition estimation
 * [krocus](https://github.com/andrewjpage/krocus) - MLST from long reads
 * [ngmlr](https://github.com/philres/ngmlr) -  long-read mapper designed to align PacBio or Oxford Nanopore (standard and ultra-long) to a reference genome with a focus on reads that span structural variations
-* [Badread](https://github.com/rrwick/Badread) - a long read simulator that can imitate many types of read problems
 
 
 ## Oxford Nanopore 
@@ -60,6 +65,8 @@ Comparison available [here](https://github.com/rrwick/Basecalling-comparison).
 ### Structural Variation
 * [nanoSV](https://github.com/mroosmalen/nanosv) - SV caller for long-read (only tested in nanopore)
 
+### Read Simulation
+* [NanoSim](https://github.com/bcgsc/nanosim) - Nanopore sequence read simulator
 
 ## PacBio 
 
@@ -71,6 +78,9 @@ Comparison available [here](https://github.com/rrwick/Basecalling-comparison).
 
 ### Alignment
 * [blasr](https://github.com/PacificBiosciences/blasr) - The PacBio® long read aligner
+
+### Read Simulation
+* [PBSIM](https://github.com/pfaucon/PBSIM-PacBio-Simulator) - This is an updated mirror of the original PacBio Read Simulator
 
 ### Misc
 * [pb-jelly](https://sourceforge.net/p/pb-jelly/wiki/Home/) - highly automated pipeline that aligns long sequencing reads (such as PacBio RS reads or long 454 reads in fasta format) to high-confidence draft assembles.
