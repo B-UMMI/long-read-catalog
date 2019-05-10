@@ -10,6 +10,7 @@ This repository intends to be a collective effort towards the construction of a 
 * [minimap 2](https://github.com/nanoporetech/minimap2) - A fast sequence mapping and alignment program
 
 ### Assembly
+Comparison available [here](https://github.com/rrwick/Long-read-assembler-comparison).
 * [Unicycler](https://github.com/rrwick/Unicycler) - hybrid assembly pipeline for bacterial genomes (miniasm and spades with racon and pilon for polishing)
 * [miniasm](https://github.com/lh3/miniasm) - Ultrafast de novo assembly for long noisy reads (though having no consensus step)
 * [canu](https://github.com/marbl/canu) - A single molecule sequence assembler for genomes large and small
