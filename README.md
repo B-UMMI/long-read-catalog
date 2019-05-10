@@ -33,7 +33,7 @@ This repository intends to be a collective effort towards the construction of a 
 * [NanoPlot](https://github.com/wdecoster/NanoPlot) - Plots and Statistics for quality evaluation
 * [NanoQC](https://github.com/wdecoster/nanoQC) - Quality control tools for long read sequencing data aiming to replicate some of the plots made by fastQC
 * [NanoStat](https://github.com/wdecoster/nanostat) - Simple statistic summary 
-* [Porechop](https://github.com/rrwick/Porechop) - adapter trimmer and demultiplexer for Oxford Nanopore reads
+* [Porechop](https://github.com/rrwick/Porechop) - adapter trimmer and demultiplexer for Oxford Nanopore reads (abandonware since Oct 2018)
 * [poretools](https://github.com/arq5x/poretools) - a toolkit for working with Oxford nanopore data
 * [MinIONQC](https://github.com/roblanf/minion_qc) - fast and simple quality control for MinION sequencing data
 
@@ -47,7 +47,7 @@ Comparison available [here](https://github.com/rrwick/Basecalling-comparison).
 
 ### Demultiplexing
 * [Deepbinner](https://github.com/rrwick/Deepbinner) - a signal-level demultiplexer for Oxford Nanopore reads
-* [Porechop](https://github.com/rrwick/Porechop) - adapter trimmer and demultiplexer for Oxford Nanopore reads
+* [Porechop](https://github.com/rrwick/Porechop) - adapter trimmer and demultiplexer for Oxford Nanopore reads (abandonware since Oct 2018)
 * Albacore - Oxford Nanopore's official command-line basecaller (requires account) 
 * [qcat](https://github.com/nanoporetech/qcat) - Python command-line tool for demultiplexing Oxford Nanopore reads from FASTQ files
 
