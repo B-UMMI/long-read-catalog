@@ -26,6 +26,7 @@ Comparison available [here](https://github.com/rrwick/Long-read-assembler-compar
 * [MetaMaps](https://github.com/DiltheyLab/MetaMaps) - simultaenously carries out read assignment and sample composition estimation
 * [krocus](https://github.com/andrewjpage/krocus) - MLST from long reads
 * [ngmlr](https://github.com/philres/ngmlr) -  long-read mapper designed to align PacBio or Oxford Nanopore (standard and ultra-long) to a reference genome with a focus on reads that span structural variations
+* [Badread](https://github.com/rrwick/Badread) - a long read simulator that can imitate many types of read problems
 
 
 ## Oxford Nanopore 
