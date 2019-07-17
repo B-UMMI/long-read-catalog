@@ -69,6 +69,10 @@ Comparison available [here](https://github.com/rrwick/Basecalling-comparison).
 ### Read Simulation
 * [NanoSim](https://github.com/bcgsc/nanosim) - Nanopore sequence read simulator
 
+### Misc
+* [nanocomp](https://github.com/wdecoster/nanocomp) - Comparison of multiple long read datasets
+
+
 ## PacBio 
 
 ### QA/QC and Trimming
