@@ -43,6 +43,7 @@ Comparison available [here](https://github.com/rrwick/Badread/tree/master/compar
 * [Porechop](https://github.com/rrwick/Porechop) - adapter trimmer and demultiplexer for Oxford Nanopore reads (abandonware since Oct 2018)
 * [poretools](https://github.com/arq5x/poretools) - a toolkit for working with Oxford nanopore data
 * [MinIONQC](https://github.com/roblanf/minion_qc) - fast and simple quality control for MinION sequencing data
+* [nanofilt](https://github.com/wdecoster/nanofilt) - Filtering and trimming of long read sequencing data 
 
 ### Basecalling 
 Comparison available [here](https://github.com/rrwick/Basecalling-comparison).
