@@ -32,6 +32,8 @@ Comparison available [here](https://github.com/rrwick/Badread/tree/master/compar
 * [MetaMaps](https://github.com/DiltheyLab/MetaMaps) - simultaenously carries out read assignment and sample composition estimation
 * [krocus](https://github.com/andrewjpage/krocus) - MLST from long reads
 * [ngmlr](https://github.com/philres/ngmlr) -  long-read mapper designed to align PacBio or Oxford Nanopore (standard and ultra-long) to a reference genome with a focus on reads that span structural variations
+* [MEGAN-LR](https://link.springer.com/article/10.1186/s13062-018-0208-7#Abs1) -  long-read and contig binning algorithm
+* [MAIRA](https://www.wsi.uni-tuebingen.de/lehrstuehle/algorithms-in-bioinformatics/software/maira) -  real-time taxonomic and functional analysis of long reads on a laptop
 
 
 ## Oxford Nanopore 
