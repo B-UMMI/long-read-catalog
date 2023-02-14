@@ -5,6 +5,7 @@ This repository intends to be a collective effort towards the construction of a 
 
 ### QA/QC and Trimming
 * [Filtlong](https://github.com/rrwick/Filtlong) - quality filtering tool for long reads
+* [chopper](https://github.com/wdecoster/chopper) - intended for long read sequencing such as PacBio or ONT, filters and trims a fastq file
 
 ### Mapping
 * [minimap 2](https://github.com/nanoporetech/minimap2) - A fast sequence mapping and alignment program
